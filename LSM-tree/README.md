@@ -1,15 +1,7 @@
-# LSM-tree-1
+# LSM-tree
 
-I'm an app. Or maybe I'm a library? I haven't decided yet. 
-
-The choice is up to you!
-
-## Usage
-
-FIXME
+Clojure implementation for a Log-Structured Merge tree.
 
 ## License
 
-Copyright Â© 2012 FIXME
-
-Distributed under the Eclipse Public License, the same as Clojure.
+Copyright © 2012 Alexandru Marinescu
